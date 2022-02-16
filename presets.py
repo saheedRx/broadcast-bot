@@ -1,10 +1,5 @@
 class Presets(object):
-    WELCOME_MESSAGE = """
-<b>Hello.. </b>{}
-<code>I'm an official telecaster bot
-maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive ma official updates.</code>
-    """
+    WELCOME_MESSAGE = 
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
     REPLY_ERROR = "<code>Use this command as a reply to any telegram message with out any spaces.</code>"
